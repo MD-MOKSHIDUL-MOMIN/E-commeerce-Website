@@ -1,0 +1,13 @@
+admin--
+momin
+1234
+
+2.user
+mominm@gmail.com
+1234
+
+
+
+http://localhost/ecommerce%20website
+
+http://localhost/ecommerce%20website/admin/admin_login.php
